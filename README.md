@@ -25,7 +25,7 @@ I’m a QA Automation & Flutter Antusias.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Mobile Autoamtion & Flutter Mobile apps  
+- 🌱 I’m currently learning Mobile Automation & Flutter Mobile apps  
   
 
 - ❓ Ask me about anything related to QA Automation and related technologies  
