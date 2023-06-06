@@ -25,7 +25,7 @@ I’m a QA Automation & Flutter Antusias.
 - ❓ Ask me about anything related to QA Automation and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I am One Piece Lover  
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
